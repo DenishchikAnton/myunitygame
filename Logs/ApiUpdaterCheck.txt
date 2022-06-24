@@ -1,0 +1,50 @@
+[api-updater (non-obsolete-error-filter)] 20.06.2022 17:51:08 : Starting F:/AntonPerson/Мои Проекты Unity/2020.3.22f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1611,0921ms
+moved types parse time: 259ms
+candidates parse time : 82ms
+C# parse time         : 1144ms
+candidates check time : 93ms
+console write time    : 8ms
+
+[api-updater (non-obsolete-error-filter)] 22.06.2022 23:29:27 : Starting F:/AntonPerson/Мои Проекты Unity/2020.3.22f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1350,0773ms
+moved types parse time: 234ms
+candidates parse time : 1ms
+C# parse time         : 1731ms
+candidates check time : 139ms
+console write time    : 7ms
+
+[api-updater (non-obsolete-error-filter)] 22.06.2022 23:32:30 : Starting F:/AntonPerson/Мои Проекты Unity/2020.3.22f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 173,0099ms
+moved types parse time: 226ms
+candidates parse time : 4ms
+C# parse time         : 770ms
+candidates check time : 97ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 23.06.2022 13:21:47 : Starting F:/AntonPerson/Мои Проекты Unity/2020.3.22f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 231,0132ms
+moved types parse time: 180ms
+candidates parse time : 1ms
+C# parse time         : 748ms
+candidates check time : 99ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 23.06.2022 13:26:14 : Starting F:/AntonPerson/Мои Проекты Unity/2020.3.22f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 159,0091ms
+moved types parse time: 225ms
+candidates parse time : 4ms
+C# parse time         : 681ms
+candidates check time : 109ms
+console write time    : 0ms
+
